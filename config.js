@@ -37,32 +37,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
-global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
+global.sgh = 'https://github.com/Fangzbotz2000' //Github mu
+global.sgc = 'https://chat.whatsapp.com/JvRgbSUsClbJcvVSRhCp2M' //Group WhatsApp mu
+global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutpfCBWg' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini ana gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '088215689772' //Dana
-global.povo = '088215689772' //Ovo
-global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
-global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
+global.pdana = '082142185506' //Dana
+global.povo = '082142185506' //Ovo
+global.pgopay = '082142185506' //Gopay
+global.ppulsa = '082142185506' //Pulsa 
+global.ppulsa2 = '082142185506' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = ':)' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6282142449269' //Nomor Bot mu
+global.nomorown = '6282142185506' //Nomormu
+global.namebot = 'Yui - Chan' //Nama bot mu
+global.nameown = 'Ang Ganz' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6288215689772'], //Owner1
-  ['6285335877178'], //Owner2
-  ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['6282142185506'], //Owner1
+  ['6282142185506'], //Owner2
+  ['6282142185506'], //Owner3
+  ['6282142185506', 'FANGZ ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
